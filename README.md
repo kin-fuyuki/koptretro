@@ -1,4 +1,5 @@
 # KOPTRETRO - Kin's optifine retro
+![demonstration](https://i.ibb.co/hFK4KS7X/koptiretroshowcase.png)
 this is a retro shader for optifine with many color modes, dithering and pixelation filter aswell
 
 super simple shader and whoever wanna contribute feel free.
@@ -10,4 +11,3 @@ here is a test youtube video: (shader was still in 1.0 version so didnt had dith
 a current test image with 12bit lowres and dithering options:
 ![image1](https://i.ibb.co/RvLWt2C/2023-07-13-17-46-38.png)
 
-![demonstration](https://i.ibb.co/hFK4KS7X/koptiretroshowcase.png)
